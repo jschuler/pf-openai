@@ -131,7 +131,7 @@ export default function Home() {
         <tr>
           <Td>
             <Button style={{ backgroundColor: c_button_disabled_Color.value }}>
-              Hello world <AngleDownIcon />
+              Hello world! <AngleDownIcon />
             </Button>
           </Td>
         </tr>
